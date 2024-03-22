@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/yaoz0816/react-native-seaart-sketch.git"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react-native-sketch-canvas allows you to draw / sketch on both iOS and Android devices and sync the drawing data between users. Of course you can save as image.",
   "author": "ipzero",
   "main": "lib/commonjs/index",
